@@ -11,9 +11,9 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Temporary site of Computational Statistics Research Group, Seoul National University. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://snu-stat.github.io" # the base hostname & protocol for your site
+url: "https://snu-stat.github.io/dl-seminar" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  snu-stat
+github_username:  kose-y
 
 # Build settings
 markdown: kramdown
