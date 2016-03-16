@@ -17,3 +17,6 @@ github_username:  kose-y
 
 # Build settings
 markdown: kramdown
+
+exclude:
+    - _posts/2016-03-16-welcome-to-jekyll.markdown
